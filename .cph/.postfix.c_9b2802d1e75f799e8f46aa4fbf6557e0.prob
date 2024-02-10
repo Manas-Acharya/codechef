@@ -1,0 +1,1 @@
+{"name":"Local: postfix","url":"c:\\Users\\Manas\\OneDrive - JK LAKSHMIPAT UNIVERSITY\\Desktop\\C\\codechef\\postfix.c","tests":[{"id":1664252130861,"input":"2\na+b\na-b","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manas\\OneDrive - JK LAKSHMIPAT UNIVERSITY\\Desktop\\C\\codechef\\postfix.c","group":"local","local":true}
